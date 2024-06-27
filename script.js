@@ -1,7 +1,7 @@
 function fibonacci(num) {
 // your code here
 	let num1 = 0;
-	let num2 = 0;
+	let num2 = 1;
 	let sum;
 	if(num1 === 0){
 		return num1;
